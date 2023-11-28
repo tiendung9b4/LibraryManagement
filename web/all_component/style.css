@@ -1,0 +1,7 @@
+    .bg-custom {
+        background: tomato;
+    }
+    .navbar .nav-item:hover {
+        background-color: white;
+        color: tomato;
+    }
